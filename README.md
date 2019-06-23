@@ -1,6 +1,6 @@
 # flukt
 
-flutter kt
+flutter kt project
 
 ## Getting Started
 
