@@ -1,0 +1,2 @@
+# flukt
+flutter kt project
